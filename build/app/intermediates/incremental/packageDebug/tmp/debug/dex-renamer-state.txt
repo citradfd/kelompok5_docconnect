@@ -1,0 +1,4 @@
+#Tue Apr 23 10:25:59 WIB 2024
+base.0=C\:\\Users\\Citra\\Documents\\doctor_appointment_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
